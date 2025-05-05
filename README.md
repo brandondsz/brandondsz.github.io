@@ -34,3 +34,4 @@ When I'm not working I spend my time at the Gym, Cycling, doing random photograp
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/brandondsz)  
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:brandondsz.goa@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/brandondsz)
