@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Brandon Berty D’Souza
-
 🎯 Passionate Full Stack Software Engineer
 📍 Based in Cork, Ireland 
 
@@ -10,6 +8,8 @@
 I’m a Full Stack Software Engineer with over a decade of experience building scalable web and cloud applications. My focus is on delivering business-impacting solutions with clean, efficient code.  
 
 Currently, I'm working at **Learning Pool** on **OnScreen**, a digital adoption platform.
+
+When I'm not working I spend my time at the Gym, Cycling, doing random photography or traveling and exploring new places.
 
 ---
 
@@ -25,8 +25,6 @@ Currently, I'm working at **Learning Pool** on **OnScreen**, a digital adoption 
 ---
 
 ## 📈 GitHub Stats
-
-![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandondsz&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandondsz&layout=compact&theme=radical)](https://github.com/brandondsz)
 
