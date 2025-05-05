@@ -1,5 +1,7 @@
 🎯 Passionate Full Stack Software Engineer
 📍 Based in Cork, Ireland 
+📫 [brandondsz.goa@gmail.com](mailto:brandondsz.goa@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/brandondsz) | [GitHub](https://github.com/brandondsz)
 
 ---
 
@@ -28,10 +30,3 @@ When I'm not working I spend my time at the Gym, Cycling, doing random photograp
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandondsz&layout=compact&theme=radical)](https://github.com/brandondsz)
 
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/brandondsz)  
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:brandondsz.goa@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/brandondsz)
